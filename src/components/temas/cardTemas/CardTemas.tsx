@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import Tema from '../../../pagina/home/models/Tema'
+import Tema from '../../../pagina/models/Tema'
 
 interface CardTemaProps {
   tema: Tema
