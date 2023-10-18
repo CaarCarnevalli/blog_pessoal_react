@@ -1,4 +1,4 @@
-import React from 'react';
+
 import homeLogo from '../../assets/home.jpg'
 import './Home.css';
 import ListaPostagens from '../../postagens/listaPostagens/ListaPostagens';
